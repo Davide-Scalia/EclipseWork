@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="archivio_mauriziano/src/main/java"/>
+	<classpathentry kind="src" path="archivio_mauriziano/src/test/java"/>
+	<classpathentry kind="src" path="ema_magazzino/MagazzinoEma/Magazzino/src/main/java"/>
+	<classpathentry kind="src" path="ema_magazzino/MagazzinoEma/Magazzino/src/test/java"/>
+	<classpathentry kind="src" path="ema_magazzino/src/main/java"/>
+	<classpathentry kind="src" path="ema_magazzino/src/test/java"/>
+	<classpathentry kind="src" path="Prg02_TodoList/src"/>
+	<classpathentry kind="src" path="Prj00_eserciziRipasso/src"/>
+	<classpathentry kind="src" path="Prj000_Laboratorio/src"/>
+	<classpathentry kind="src" path="Prj01_LanciaDadi/src"/>
+	<classpathentry kind="src" path="Prj04_ToDoListweb/src/main/java"/>
+	<classpathentry kind="src" path="prj05_Geometria/src"/>
+	<classpathentry kind="src" path="Prj07_GestioneDipendenti2.0/src/main/java"/>
+	<classpathentry kind="src" path="Prj08_ CartaForbiceSasso/src/main/java"/>
+	<classpathentry kind="src" path="RipassoEsame/src/main/java"/>
+	<classpathentry kind="src" path="RipassoEsame/src/test/java"/>
+	<classpathentry kind="lib" path="archivio_mauriziano/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="ema_magazzino/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="ema_magazzino/MagazzinoEma/Magazzino/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="RipassoEsame/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="Prg02_TodoList/bin"/>
+</classpath>

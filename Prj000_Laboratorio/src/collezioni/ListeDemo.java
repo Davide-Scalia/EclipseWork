@@ -16,6 +16,8 @@ public final class ListeDemo {
 		parole.add("pippo");
 		parole.add("pippo");
 		
+		//Dio nazifascista
+		
 		System.out.println(parole.size());
 		
 		for (String string : parole) {
